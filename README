@@ -1,0 +1,3 @@
+GrooveSharkAdRemover is a javascript for tamperMonkey, an addon for Google Chrome (https://chrome.google.com/webstore/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo).
+It does simply what it tells: removing ads from the well-known site grooveshark.com.
+it cycles every 5 secs looking for those ads we all have learned to hate and... It removes em all.
