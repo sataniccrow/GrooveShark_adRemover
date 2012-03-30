@@ -27,13 +27,15 @@ function removeAds(){
 		"capitalSidebar",
 		"searchCapitalWrapper_728",
 		"searchCapitalWrapper_300",
-            "searchCapital_300",
+	        "searchCapital_300",
 		"musicCapitalWrapper_160",
 		"exploreCapitalWrapper_728",
 		"exploreCapitalWrapper_300",
 		"notifications",
 		"commCapitalWrapper_300",
-            "capitalView_728",
+        	"capitalView_728",
+		"songCapitalWrapper_728",
+	        "songCapitalWrapper_300",
 		"theme_home"
 	];
 	
